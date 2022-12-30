@@ -129,7 +129,7 @@ Essa imagem com o ciclo de TDD pode te ajudar a fixar o que viu acima:
 - Playlist de vídeos "[Let's Play: Test Driven Development](https://youtube.com/playlist?list=PL0CCC6BD6AFF097B1)", do [James Shore](https://www.jamesshore.com/).
 <!-- - Practical Full-Stack JavaScript Web Application Test Driven Development - https://github.com/nelsonic/practical-js-tdd -->
 
-## É hora da prática
+## Aldo vai tomar no cu
 
 > Este tutorial pretende ser uma introdução amigável ao TDD para iniciantes.
 > O exemplo da máquina de venda automática é relativamente simples
